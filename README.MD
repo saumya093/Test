@@ -7,6 +7,6 @@ Title
 `This is code`
 _italics_
 
-[Link](http://google.com)
+[Link](https://www.google.com)
 
 
